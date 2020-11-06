@@ -6,6 +6,14 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 
+#ignoring vscode
+.vscode
+.vscode/*
+
+#ignoring expo
+.expo
+.expo/*
+
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
